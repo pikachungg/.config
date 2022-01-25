@@ -11,4 +11,5 @@
 - `cd .config/nvim`
 - `nvim plug.vim`
 - In command mode `:PlugInstall`
+- `yarn global add diagnostic-languageserver`
 - Restart terminal
